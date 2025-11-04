@@ -12,7 +12,7 @@ export function App() {
       title: 'Digitizing Maritime Receivables with Trust and Transparency',
       subtitle: 'Securitizing receivables and enabling real-time risk evaluation with zero-knowledge proofs.',
       cta_text: 'Book a Demo Call →',
-      cta_link: 'https://calendly.com/moneta/demo'
+      cta_link: 'https://calendly.com/adtimokhin/bunkering-brokering-intro-call'
     },
     advantages: {
       section_title: 'Our Platform Capabilities',
@@ -47,7 +47,7 @@ export function App() {
       title: 'Join the Future of Maritime Finance',
       subtitle: "Whether you're an issuer, buyer, or investor — Moneta makes it possible to move capital through the maritime world with verifiable trust.",
       cta_text: 'Book a Demo Call →',
-      cta_link: 'https://calendly.com/moneta/demo'
+      cta_link: 'https://calendly.com/adtimokhin/bunkering-brokering-intro-call'
     }
   };
   return <div className="min-h-screen w-full bg-dark-400 text-light-300">
