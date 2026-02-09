@@ -39,9 +39,9 @@ export const Hero = ({
                 </svg>
               </div>
               <div className="text-left">
-                <p className="text-sm text-light-600">Ensuring</p>
+                <p className="text-sm text-light-600">✦ $680B Market</p>
                 <p className="font-medium text-light-400">
-                  Privacy with Trust
+                  Only $40B Served
                 </p>
               </div>
             </div>
@@ -53,9 +53,9 @@ export const Hero = ({
                 </svg>
               </div>
               <div className="text-left">
-                <p className="text-sm text-light-600">Unlock</p>
+                <p className="text-sm text-light-600">$ $200B+ in Stablecoins</p>
                 <p className="font-medium text-light-400">
-                  Unparallel Liquidity
+                  Seeking Yield
                 </p>
               </div>
             </div>
